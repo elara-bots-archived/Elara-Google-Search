@@ -1,4 +1,8 @@
-#Example Usage
+# Example Usage
+
+https://console.developers.google.com/apis - API Key
+
+http://www.google.com/cse/manage/all - CX ID
 
 
 ```js
